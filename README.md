@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arun Kumar N @arunkumar-1122002
 - 👀 I’m interested in full stack development,Mobile app development
-- 🌱 I’m currently learning advance dataStructures and algoritham,Full stack development.
+- 🌱 I’m currently learning dataStructures and algoritham,Full stack development.
 - 💞️ I’m looking to collaborate on Real time problem solving software projects
 - 📫 You can reach me through whatsapp : Wa.me/+919344324318
 
